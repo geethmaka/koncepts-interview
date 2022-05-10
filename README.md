@@ -12,6 +12,8 @@
 
 - React
 
+- Postman or Insomnia
+
 # Setup
 
 ## 1.Seting up the backend
@@ -60,9 +62,15 @@ npm start
 
 # Sample Login
 
-- After the frontend lauched you may require to login use following credentials to login easily.
+- After the frontend lauched you may require to login. You can use the following credentials to login easily.
 
 ```
 Username- admin
 Password - admin
 ```
+
+# Aditional Informaion
+
+- You can add new employees,banks or branches via the API. (Haven't developed the frontend)
+
+- Ex: To add a bank send a post request to http://hostname:port/bank/add along with the data structure in the model file. (backend/models/bank.model.js)
