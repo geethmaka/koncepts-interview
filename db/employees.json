@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "627ac8ece63a95ff365bc912"
+  },
+  "empName": "admin",
+  "empEmail": "admin",
+  "empAddress": "kandy",
+  "empPassword": "U2FsdGVkX19o15Cp+O2DlOFTpwRhc/08c1ujiz5Lb+M=",
+  "empPhoto": "uploads/0.9800575451163791Photo.jpg",
+  "bankId": "62796422f6653755db6e8fe9",
+  "branchId": "627967a28bfb5d4031edbd4e",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "627acce42a1bdda8d6d1cb75"
+  },
+  "empName": "admin2",
+  "empEmail": "admin",
+  "empAddress": "kandy",
+  "empPassword": "U2FsdGVkX19O3IkVrkgNdnODcXnwIXQyMrDtCKDxBbc=",
+  "empPhoto": "uploads/0.5360460369522291Photo.jpg",
+  "bankId": "62796422f6653755db6e8fe9",
+  "branchId": "627967a28bfb5d4031edbd4e",
+  "__v": 0
+}]
